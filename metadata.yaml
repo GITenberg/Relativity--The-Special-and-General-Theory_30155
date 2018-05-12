@@ -18,6 +18,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Albert_Einstein
 description: Part I. The special theory of relativity -- Part II. The general theory
   of relativity -- Part III. Considerations on the universe as a whole.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30155#Relativity--The-Special-and-General-Theory
 edition_note: Revised edition
 gutenberg_bookshelf: Physics
 gutenberg_issued: '2009-10-01'
