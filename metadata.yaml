@@ -1,0 +1,36 @@
+_repo: Relativity--The-Special-and-General-Theory_30155
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lawson, Robert W. (Robert William)
+    gutenberg_agent_id: '33534'
+    url: http://www.gutenberg.org/2009/agents/33534
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Einstein, Albert
+    birthdate: 1879
+    deathdate: 1955
+    gutenberg_agent_id: '1630'
+    url: http://www.gutenberg.org/2009/agents/1630
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Einstein
+description: Part I. The special theory of relativity -- Part II. The general theory
+  of relativity -- Part III. Considerations on the universe as a whole.
+edition_note: Revised edition
+gutenberg_bookshelf: Physics
+gutenberg_issued: '2009-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30155'
+language: en
+publication_note: Methuen & Co Ltd, 1924
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Relativity (Physics)'
+- !lcc 'QC'
+title: 'Relativity: The Special and General Theory'
+url: http://www.gutenberg.org/ebooks/30155
